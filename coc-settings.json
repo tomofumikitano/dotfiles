@@ -1,0 +1,7 @@
+{
+"suggest.noselect": false,
+"powershell.integratedConsole.showOnStartup": false,
+
+"pyright.inlayHints.variableTypes": false,
+"pyright.inlayHints.functionReturnTypes": false
+}
