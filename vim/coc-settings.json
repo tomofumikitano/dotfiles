@@ -1,0 +1,13 @@
+{
+  "suggest.noselect": false,
+
+  "powershell.integratedConsole.showOnStartup": false,
+
+  "pyright.inlayHints.variableTypes": false,
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.parameterTypes": false,
+
+  "python.formatting.autopep8Path": "/home/tomofumi/bin/autopep8",
+  "python.formatting.autopep8Args": ["--indent-size", "2", "--ignore", "E121", "--aggressive"]
+
+}
